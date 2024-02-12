@@ -21,7 +21,7 @@ title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "SW Dev"
 description: "머릿속 지식이 휘발되지 않도록"
-url: "https://limslimx.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://limslimx3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # "/assets/images/football.jpeg" # path of fallback teaser image, e.g. "/ssets/images/500x300.png"
@@ -32,7 +32,7 @@ words_per_minute: 200
 comments:
   provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname: "limslimx-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: "limslimx3-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -112,7 +112,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/limslimx"
+      url: "https://github.com/limslimx3"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -128,7 +128,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/limslimx"
+      url: "https://github.com/limslimx3"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
